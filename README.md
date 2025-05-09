@@ -1,3 +1,4 @@
+# SniffWave
 **Packet Sniffer Tool (For Educational Purposes Only)**
 This repository contains a Python-based packet sniffer tool designed to capture and analyze network packets in real time. The tool extracts and displays important information such as source and destination IP addresses, protocol types, and payload data. It provides a hands-on learning experience in understanding how network traffic works and how packets can be inspected.
 
